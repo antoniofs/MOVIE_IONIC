@@ -1,4 +1,4 @@
-# Project Title
+# IONIC MOVIE
 
 First project using IONIC 3.0 created an app to list the most popular movies this year, using the TMDB API the movie data base
 
